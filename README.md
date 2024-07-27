@@ -1,1 +1,2 @@
-ababab
+反向传播的推导以及第二题第三题的说明文档均在main分支中。
+第二第三题具体的运行代码在master分支中，其中yolov10-main文件夹为Seaships数据集的目标检测，yolov10-mainquexian文件夹为NEU-DET数据集的缺陷检测，code文件夹为NLP情感分析。
