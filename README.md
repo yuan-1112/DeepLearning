@@ -4,7 +4,7 @@
 
 ##### yolov10-main文件夹为Seaships数据集的目标检测，运行结果在runs中的train_v1512。
 
-##### yolov10-mainquexian文件夹为NEU-DET数据集的缺陷检测，运行结果在train_def23。
+##### yolov10-mainquexian文件夹为NEU-DET数据集的缺陷检测，运行结果在run中的train_def23。
 
 ##### code文件夹为NLP情感分析，运行结果的图像在image。
 
