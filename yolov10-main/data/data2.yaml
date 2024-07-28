@@ -1,0 +1,16 @@
+
+train: 
+  - E:\desktop(zhuomian)\yolov10-main\data\images\train
+val: 
+  - E:\desktop(zhuomian)\yolov10-main\data\images\test
+test: 
+  - E:\desktop(zhuomian)\yolov10-main\data\images\val
+nc: 6
+# Classes
+names:
+  0: ore carrier
+  1: general cargo ship
+  2: bulk cargo carrier
+  3: container ship
+  4: fishing boat
+  5: passenger ship
